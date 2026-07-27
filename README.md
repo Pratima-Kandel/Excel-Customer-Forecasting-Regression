@@ -2,7 +2,7 @@
 
 **Multiple linear regression and decision tree analysis predicting daily customer arrivals, built to replace gut-feeling staffing decisions with a data-backed model.**
 
-Branch managers often staff by instinct — adding tellers on days that "feel busy" and cutting back on days that don't. This project tests whether day-of-week patterns and calendar events can actually predict arrival volume well enough to plan staffing around, instead of reacting to it.
+Branch managers often staff by instinct adding tellers on days that "feel busy" and cutting back on days that don't. This project tests whether day-of-week patterns and calendar events can actually predict arrival volume well enough to plan staffing around, instead of reacting to it.
 
 ---
 
@@ -35,7 +35,7 @@ Branch managers often staff by instinct — adding tellers on days that "feel bu
 | Significance F | 3.08E-64 |
 | Observations | 254 |
 
-An R² of 0.72 is strong for a staffing forecast — the model captures most of what actually drives daily traffic swings, not just noise.
+An R² of 0.72 is strong for a staffing forecast the model captures most of what actually drives daily traffic swings, not just noise.
 
 ---
 
@@ -61,7 +61,7 @@ Compared to Friday, the busiest day of the week:
 | Faculty paydays | +369 customers |
 | Nearby holidays | +281 customers |
 
-Paydays alone move volume more than any single day-of-week effect — a pattern easy to miss without regression, and easy to plan around once it's quantified.
+Paydays alone move volume more than any single day-of-week effect a pattern easy to miss without regression, and easy to plan around once it's quantified.
 
 ---
 
@@ -71,7 +71,7 @@ Paydays alone move volume more than any single day-of-week effect — a pattern 
 
 Beyond forecasting volume, the second half of this project asks a sharper question: on a given day, does adding a teller actually pay off? Built a decision tree weighing payoff outcomes from -$2,500 to +$3,000 across probability-weighted branches.
 
-**Result: expected value of -$25** — close enough to break-even that the staffing call is genuinely marginal, not obvious either way. That's a more useful answer than "yes" or "no": it tells a manager this decision needs context (which day, which event) rather than a blanket policy.
+**Result: expected value of -$25** close enough to break-even that the staffing call is genuinely marginal, not obvious either way. That's a more useful answer than "yes" or "no": it tells a manager this decision needs context (which day, which event) rather than a blanket policy.
 
 ---
 
@@ -79,19 +79,19 @@ Beyond forecasting volume, the second half of this project asks a sharper questi
 
 **Add tellers on:**
 - Mondays — busier than they look at first glance
-- Staff paydays — +369 customer surge
-- Faculty paydays — +369 customer surge
+- Staff paydays +369 customer surge
+- Faculty paydays +369 customer surge
 
 **Cut back on:**
-- Around holidays — noticeably fewer arrivals
-- Wednesdays and Thursdays — consistently the slowest days
+- Around holidays noticeably fewer arrivals
+- Wednesdays and Thursdays consistently the slowest days
 - Reduce idle teller time on these days without hurting service
 
 ---
 
 ## Tools & Technologies
 
-Microsoft Excel — multiple linear regression, ANOVA, decision tree modeling, expected value analysis, statistical forecasting
+Microsoft Excel multiple linear regression, ANOVA, decision tree modeling, expected value analysis, statistical forecasting
 
 ---
 
