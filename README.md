@@ -63,6 +63,8 @@ Beyond forecasting volume, the second half of this project asks a sharper questi
 
 The result came out to an expected value of -$25, close enough to break-even that the staffing call is genuinely marginal, not obvious either way. That's a more useful answer than a flat yes or no. It tells a manager this decision needs context, like which day or which event, rather than a blanket policy.
 
+*Note: The decision tree applies an expected-value framework from coursework to the staffing question. Payoff values are illustrative rather than drawn from branch cost data.*
+
 ## Staffing Recommendations
 
 Add tellers on:
