@@ -38,8 +38,8 @@ Compared to Friday, the busiest day of the week:
 | Day | Customers vs. Friday |
 |---|---|
 | Monday | 211 fewer |
-| Tuesday | 461 fewer (quietest day) |
-| Wednesday | 479 fewer |
+| Tuesday | 461 fewer |
+| Wednesday | 479 fewer (quietest day) |
 | Thursday | 440 fewer |
 | Friday | Baseline (highest activity) |
 
