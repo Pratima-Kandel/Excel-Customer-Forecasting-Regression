@@ -88,6 +88,6 @@ Microsoft Excel, multiple linear regression, ANOVA, decision tree modeling, expe
 
 **Pratima Kandel**  
 MS in Business Analytics — Webster University, St. Louis, MO  
-Open to Business Analyst and Data Analyst roles
+Open to analytics roles
 
 [LinkedIn](https://linkedin.com/in/pratima92) · [GitHub](https://github.com/Pratima-Kandel)
