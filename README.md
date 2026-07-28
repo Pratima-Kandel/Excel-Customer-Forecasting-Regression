@@ -51,7 +51,9 @@ Compared to Friday, the busiest day of the week:
 | Faculty paydays | +369 customers |
 | Nearby holidays | +281 customers |
 
-Paydays alone move volume more than any single day-of-week effect. It's a pattern easy to miss without regression, and easy to plan around once it's quantified.
+Paydays and holidays are the strongest positive drivers, adding roughly 
+280-370 customers each. Day-of-week effects run larger still, with Wednesday 
+alone accounting for a 479-customer swing.
 
 ## Decision Tree: Is an Extra Teller Worth It?
 
@@ -67,9 +69,9 @@ Add tellers on:
 - Mondays, which run busier than they look at first glance
 - Staff paydays, with a 369 customer surge
 - Faculty paydays, with the same surge pattern
+- Days near holidays, which bring 281 more customers
 
 Cut back on:
-- Days around holidays, when arrivals noticeably drop
 - Wednesdays and Thursdays, consistently the slowest days
 - Reducing idle teller time on these days without hurting service
 
