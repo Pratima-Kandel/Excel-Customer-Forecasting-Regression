@@ -71,9 +71,14 @@ Add tellers on:
 - Faculty paydays, with the same surge pattern
 - Days near holidays, which bring 281 more customers
 
-Cut back on:
-- Wednesdays and Thursdays, consistently the slowest days
-- Reducing idle teller time on these days without hurting service
+**Cut back on:**
+
+- Wednesdays, the quietest day at 479 fewer customers than Friday
+- Tuesdays, close behind at 461 fewer
+- Thursdays, at 440 fewer
+
+Staffing down on these three days reduces idle teller time without 
+affecting service on the days that actually need coverage.
 
 ## Tools & Technologies
 
@@ -81,9 +86,8 @@ Microsoft Excel, multiple linear regression, ANOVA, decision tree modeling, expe
 
 ## Author
 
-Pratima Kandel
-MS in Business Analytics, Webster University
-St. Louis, MO
-Open to Business Analyst & Data Analyst roles
+**Pratima Kandel**  
+MS in Business Analytics — Webster University, St. Louis, MO  
+Open to Business Analyst and Data Analyst roles
 
-If you found this project helpful, feel free to star the repo.
+[LinkedIn](https://linkedin.com/in/pratima92) · [GitHub](https://github.com/Pratima-Kandel)
